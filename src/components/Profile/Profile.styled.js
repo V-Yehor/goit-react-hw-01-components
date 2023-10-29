@@ -16,7 +16,6 @@ export const ProfileWrapper = styled.div`
 
 export const ProfileAvatar = styled.img`
   border-radius: 50%;
-  border: 5px solid red;
   margin: 30px auto;
 `;
 
